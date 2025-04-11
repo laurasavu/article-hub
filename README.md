@@ -25,10 +25,8 @@ Article Hub is a robust platform designed to efficiently manage articles and wri
 ## Getting Started
 
 To set up the project locally:
-
 1. **Clone the Repository**:
-   ```bash
-  git clone https://github.com/laurasavu/article-hub.git
+git clone https://github.com/laurasavu/article-hub.git
 2.Navigate to the Project Directory:
 cd article-hub
 3.Install Dependencies: Ensure all required packages are installed.
